@@ -1,3 +1,9 @@
+
+
+
+
+https://github.com/user-attachments/assets/58c8576a-bfc5-4112-be6b-9c76062cb5f1
+
 # 🚀 InterviewIQ (LevelUp)
 
 **InterviewIQ** (also known as LevelUp) is a data-driven, 2-minute assessment platform designed to objectively measure interview readiness. It evaluates candidates across technical skills, resume strength, communication clarity, and portfolio impact—perfect for students and new grads preparing for their first recruiter calls.
